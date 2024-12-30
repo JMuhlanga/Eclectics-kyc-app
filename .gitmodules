@@ -1,3 +1,6 @@
 [submodule "eclectics-kyc-app-api"]
 	path = eclectics-kyc-app-api
 	url = git@github.com:JMuhlanga/eclectics-kyc-app-api.git
+[submodule "eclectics-kyc-app-client"]
+	path = eclectics-kyc-app-client
+	url = git@github.com:JMuhlanga/eclectics-kyc-app-client.git
